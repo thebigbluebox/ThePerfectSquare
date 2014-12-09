@@ -63,8 +63,8 @@ if(!$user->is_logged_in()){ header('Location: login.php'); }
 				$stmt->execute(array(
 					':postTitle' => htmlspecialchars($postTitle),
 					':postSlug' => $postSlug,
-					':postDesc' => htmlspecialchars($postDesc),
-					':postCont' => htmlspecialchars($postCont),
+					':postDesc' => $postDesc,
+					':postCont' => $postCont,
 					':postDate' => date('Y-m-d H:i:s')
 				));
 				$postID = $db->lastInsertId();
