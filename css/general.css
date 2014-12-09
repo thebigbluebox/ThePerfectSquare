@@ -1,0 +1,201 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+* {
+    outline: none;
+}
+b{
+	font-weight:bold;
+}
+h1{
+	font-weight: bold;
+	font-size: 4.375em;
+	padding: 0px 0;
+}
+h2{
+	font-weight: bold;
+	font-size: 3.125em;
+	padding: 20px 0;
+}
+h3{
+	font-weight: bold;
+	font-size: 1.875em;
+	padding: 20px 0;
+}
+b{
+	font-weight:bold;
+}
+.title_large{
+	font-size:6.250em;
+	font-weight:bold;
+}
+.title_med{
+	font-size:1.250em;
+	font-weight:bold;
+}
+.title_small{
+	font-size:1.250em;
+}
+.text_center{
+	text-align:center;
+}
+.text_right{
+	text-align:right
+}
+.hidden{
+	display:none;
+}
+.error{
+	font-weight:bold;
+	color:red;
+}
+.regular{
+	width:100%;
+	height:auto;
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {/
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+/* Styles */
+	h1{
+		font-weight: bold;
+		font-size: 1.5em;
+		padding: 0px 0;
+	}
+	h2{
+		font-weight: bold;
+		font-size: 1.3em;
+		padding: 5px 0;
+	}
+	h3{
+		font-weight: bold;
+		font-size: 1em;
+		padding: 7px 0;
+	}
+	b{
+		font-weight:bold;
+	}
+	.title_large{
+		font-size:1.5em;
+		font-weight:bold;
+	}
+	.title_med{
+		font-size:1.250em;
+		font-weight:bold;
+	}
+	.title_small{
+		font-size:1.250em;
+	}
+	.regular{
+		width:100%;
+		height:auto;
+	}
+	.content{
+		width:100%;
+		padding:10px;
+		margin: 0 auto;
+	}
+	#content_wrapper{
+		width:100%;
+		height:auto;
+		margin:0 auto;
+	}
+	#inital_whitespace{
+		height:0px;
+		width:100%;
+	}
+	#footer{
+		position:relative;
+		color:color:#403D3F;
+		font-size:10px;
+		text-align: center;
+		padding-top:1%;
+		margin-bottom:2%;
+	}
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+/* Styles */
+	.content{
+		width:90%;
+		padding:10px;
+		margin: 0 auto;
+	}
+	#content_wrapper{
+		width:80%;
+		height:auto;
+		margin:0 auto;
+	}
+	#inital_whitespace{
+		height:50px;
+		width:100%;
+	}
+	#footer{
+		position:relative;
+		color:color:#403D3F;
+		font-size:10px;
+		text-align: center;
+		padding-top:3%;
+		margin-bottom:2%;
+	}
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1024px) {
+/* Styles */
+
+	.content{
+		width:60%;
+		padding:10px;
+		margin: 0 auto;
+	}
+
+	#content_wrapper{
+		width:80%;
+		height:auto;
+		margin:0 auto;
+	}
+	#inital_whitespace{
+		height:220px;
+		width:100%;
+	}
+	#footer{
+		position:relative;
+		color:color:#403D3F;
+		font-size:10px;
+		text-align: center;
+		padding-top:3%;
+		margin-bottom:2%;
+	}
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+}

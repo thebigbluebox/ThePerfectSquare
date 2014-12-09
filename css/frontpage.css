@@ -1,0 +1,70 @@
+.hid_list{
+	height:auto;
+	font-size: 20px;
+}
+
+.c{
+	display:inline-block;
+	list-style:none;
+	height:23px;
+	font-size: 20px;
+	padding:10px;
+	color:black;
+}
+#stu1{
+	color:#7A003C;
+	padding: 20px 0px;
+}
+#I_m ul{
+	background-color:black;
+}
+#I_m ul li{
+	display:inline-block;
+	list-style:none;
+	height:23px;
+	font-size: 20px;
+	padding:10px;
+	color:white;
+}
+#social{
+	background-color:black;
+	margin-top:50px;
+	height:45px;
+}
+#social li{
+	display:inline-block;
+	list-style:none;
+}#GITico{
+	background-color: black;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition:.5s;
+}
+#GITico:hover{
+	background-color:#8CCE13;
+}
+#FBico{
+	background-color: black;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition:.5s;
+}
+#FBico:hover{
+	background-color: #3B5998;
+}
+#LINico{
+	background-color: black;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition:.5s;
+}
+#LINico:hover{
+	background-color: #4875B4;
+}
+

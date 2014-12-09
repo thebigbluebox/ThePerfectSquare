@@ -1,0 +1,19 @@
+a{
+	color: black;
+}
+a:visited {
+    color: gray;
+}
+a:hover{
+	color:red;
+}
+p{
+	padding: 5px 0;
+}
+.date{
+	color:gray;
+	padding: 8px 0 2px 0;
+}
+h2{
+	padding-bottom: 3px;
+}
