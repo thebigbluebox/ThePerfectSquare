@@ -67,7 +67,8 @@ if(!$user->is_logged_in()){ header('Location: login.php'); }
 				echo "Stored in: " . "../img/upload/" . $_FILES["file"]["name"];
 				if(!isset($error)){
 					try {
-						$path = "/img/upload/".$_FILES["file"]["name"];	
+						$path = "/img/upload/".$_FILES["file"]["name"];
+						
 						//insert into database
 						$stmt = $db->prepare('INSERT INTO picture_directory (inGallery,imgTitle,imgDesc,imgPath) VALUES (:inGallery, :imgTitle, :imgDesc, :imgPath)') ;
 						$stmt->execute(array(
