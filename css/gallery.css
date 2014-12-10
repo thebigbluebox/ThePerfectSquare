@@ -29,14 +29,6 @@
 	transition:.2s;
  }
 
-.mainImg:hover .titleImg h1{
-	padding: 1%;
-}
-
-mainImg:hover .titleImg p{
-	padding: 1%;
-}
-
 .mainImg:hover .imgOld{
 	-webkit-filter: blur(5px);
 	-moz-filter: blur(5px);

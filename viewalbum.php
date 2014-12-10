@@ -31,9 +31,9 @@ if($row1['albID'] == ''){
 			echo "<div class=\"image\">";
 			echo "\t<div class=\"mainImg\">";
 			echo "\t<div class=\"titleImg\">";
-			echo "\t\t<div><h1>".$row['imgTitle']."</h1></div>";
+			echo "\t\t<div><h1 style=\"padding:1%\">".$row['imgTitle']."</h1></div>";
 			echo "\t<hr>";
-			echo "\t\t<div><p>".$row['imgDesc']."</p></div>";
+			echo "\t\t<div><p style=\"padding:2%\">".$row['imgDesc']."</p></div>";
 			echo "\t</div>";
 			echo "\t<div class=\"img\">";
 			echo "\t\t<img src=\".".$row['imgPath']."\" width=\"100%\" title=\"".$row['imgTitle']."\">";
