@@ -13,6 +13,8 @@ if($row['postID'] == ''){
 ?>
 <?php include('./php/nav.php'); ?>
 <link rel="stylesheet" href="./css/blog.css"/>
+<link rel="stylesheet" href="//cdnjs.buttflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
+<script src="//cdnjs.buttflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
 	<div id="content_wrapper">
 		<div id="inital_whitespace">
 	</div>
