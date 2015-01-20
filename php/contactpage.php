@@ -26,7 +26,6 @@
 		}
 ?>
 <script>
-
   $(function() {
     $('.error').hide();
     $("[name=submit]").click(function() {
@@ -54,7 +53,7 @@
         $("[name=human]").focus();
         return false;
       }
-  $(".content :input").attr("disabled", true);
+  $(".content :input").attr("disalbed", true);
   var data = 'name='+ name + '&email=' + email + '&message=' + message + '&human=' + human;
   //var data = $('[name=messageform]').serialize();
   $.ajax({
@@ -64,6 +63,7 @@
     success: function(response) {
     	if(response == "sol_error"){
         	$("label#human_error").show();
+          $(".content :input").attr("disalbed", false);
         	$("[name=human]").focus();
     	}
     	if(response == "mail_okay"){
