@@ -23,29 +23,29 @@
 		</ul>
 		<p><span class="title_small right">Programming Skills</span></p>
 		<ul>
-			<li class="sklist">Object Oriented: Java/J2EE, Pivotal Labs Spring MVC, C#, C++, Python, XAML </li>
-			<li class="sklist">Web Related:Full Lamp stack, MEAN stack, CSS 3.0, HTML 5.0, good practice of UI/UX</li>
-			<li class="sklist">Database: MySQL, Microsoft SQL Server, SQLite</li>
-			<li class="sklist">Test and QA Experiences: Selenium, JUnit</li>
-			<li class="sklist">Additional Experiences: Android Development, Haskell, OpenGL,/ES OpenGL, LaTeX, Windows Store Apps, <span class="bold">fluent in the art of Git and SVN</span></li>
+			<li class="sklist">Object Oriented:<b> Java/J2EE, Pivotal Labs Spring MVC, C#, C++, Python, XAML </b></li>
+			<li class="sklist">Web Related: <b>Full AMP stack, MEAN stack, CSS 3.0, HTML 5.0, UI/UX design experience</b></li>
+			<li class="sklist">Database: <b>MySQL, Microsoft SQL Server, SQLite, CouchDB, MongoDB</b></li>
+			<li class="sklist">Test and QA Experiences:<b> Selenium, JUnit</b></li>
+			<li class="sklist">Additional Experiences: <b>Android Development, Haskell, OpenGL,/ES OpenGL, LaTeX, Windows Store Apps, fluent in the art of Git and SVN</b></li>
 		</ul>
 	</div>
 	<div id="experiences" class="content">
 		<p><span class="title_med gray"><b>Work Experiences</b></span></p>
 		<p><span class="title_med"><b>PointClickCare</b> Mississauga, Java Developer 4 month Co-op, 2014, Summer</span></p>
 		<ul>
-			<li class="sklist">Developed efficient and correct business solutions in an agile software development life cycle</li>
-			<li class="sklist">Worked with Java Spring MVC framework, and demonstrated strong knowledge of the MVC concepts and ability to implement into a production environment</li>
-			<li class="sklist">Created reports that were deployed into production using iReports JRXML</li>
-			<li class="sklist">Implemented new functionalities to the web application using J2EE and Spring MVC framework</li>
+			<li class="sklist">Developed and built business solutions in an agile software development environment</li>
+			<li class="sklist">Worked with Java Spring MVC framework, created new single page applications that interfaced with a Microsoft SQL Servers</li>
+			<li class="sklist">Refactored and optimized legacy code base for integration with Spring MVC</li>
+			<li class="sklist">Created dynamically generated reports with iReports JRXML</li>
+			<li class="sklist">Implemented new functionalities to web application using J2EE and Spring MVC framework</li>
 			
 		</ul>
 		<p><span class="title_med"><b>PointClickCare</b> Mississauga, Front End UI/UX Developer 4 month Co-op, 2013, Summer</span></p>
 		<ul>
-			<li class="sklist">Developed and maintained the front-end web interface to PointClickCare’s application</li>
-			<li class="sklist">Made use of my strong knowledge in web technologies such as JavaScript, J2EE, jQuery,HTML, CSS, and browser development tools to create better UI/UX interfaces</li>
+			<li class="sklist">Developed and maintained the front-end web interface to PointClickCare’s web application</li>
+			<li class="sklist">Utilizing web technologies such as JavaScript, J2EE, jQuery, HTML, CSS, and browser development tools to create a more intuitive UI/UX</li>
 			<li class="sklist">Demonstrated competence in web standards and good coding practices by creating and standardizing cross browser code requirements for future UI/UX development on PointClickCare’s web application</li>
-			<li class="sklist">Utilized strong communication skills that lead to the effective planning and development of critical UI/UX changes</li>
 		</ul>
 	</div>
 	<div id="prog_experiences" class="content">
@@ -53,7 +53,7 @@
 		<p><span class="title_med"><b>HackItMac Mentor / Web Developer, Current</b></span></p>
 		<ul>
 			<li class="sklist">Developed, designed, and is currently maintaining the Hackitmac.com page using Jekyll and Bootstrap</li>
-			<li class="sklist">Being a volunteer mentor, I create and teach my own content to the various students that attend HackItMac workshops, materials include JavaScript, PHP, and MySQL</li>
+			<li class="sklist">Being a volunteer mentor, I create and teach my own content to the various students that attend HackItMac workshops, materials include JavaScript, Android, and MySQL</li>
 		</ul>
 		<p><span class="title_med"><b>McMaster Game Development Association(GDA), Current</b></span></p>
 		<ul>
@@ -77,6 +77,11 @@
 			<li class="sklist">In-community volunteer in the area of Hamilton Ontario, main objective of this position is to educate and recruit blood donors,</li>
 			<li class="sklist">Prepared training materials for new volunteers and trained them to be prepared and efficient at this position</li>
 			<li class="sklist">Coordinated with the Canadian Blood Service to improve and expand in-community volunteering program</li>
+		</ul>
+		<p><span class="title_med"><b>Arts In Motion [AIM] Treasurer, Current</b></span></p>
+		<ul>
+			<li class="sklist">Help form the Arts In Motion charitable group, aimed at making a difference in the local community through different forms of art</li>
+			<li class="sklist">Draft and maintain budget for the Arts In Motion Group</li>
 		</ul>
 	</div>
 </div>
