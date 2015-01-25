@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="theme-color" content = "#FFFF00">
+		<meta name="theme-color" content = "#00000">
 		<title><?php echo $title ?> - The Perfect Square</title>
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="./css/normalize.css"/>
