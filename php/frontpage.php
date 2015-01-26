@@ -32,15 +32,13 @@
 	</div>
 	<div class="content text_center hidden hid_list" id="pho1">And I also do photography when I have time to spare!
 	<ul>
-		<li class="c">Check out my gallary, but sadly right now its still under development</li>
+		<li class="c">Check out my gallary!</li>
 	</ul>
 	</div>
-	<div class="content text_center hidden hid_list" id="stu1">I am currently a Honors Computer Science Student at McMaster University located in the lovely waterfall city of Hamilton Ontario.
-	I am currently in my 3rd year right now and would say I have an interest in learning any aspect of computer science. Some of my latest interests being big data and data analysis with Hadoop,
-	raspberry pi, and nfc technologies.
+	<div class="content text_center hidden hid_list" id="stu1">I am an Honors Computer Science student at McMaster University located in the lovely waterfall city of Hamilton, Ontario. I currently am in my 3rd year of studies, and have an interest in learning and exploring the growing field of software development and computer science. Some of my latest interests are big data analysis with Hadoop, Rasperry PI, and NodeJS development.
 	</div>
 	
-	<div class="content text_center"><span class="title_small text">And this is my website to demostrate some of my skills and talents and maybe even a magic trick once in a while. This website still currently under some heavy construction so if you see anything off, it's probably caused from a lack of sleep.</span></div>
+	<div class="content text_center"><span class="title_small text">And this is my website to demostrate some of my skills and talents and maybe even a magic trick once in a while. Come talk to me by sending me a message, I am ready to discuss!</span></div>
 	</div>
 	<div class="content text_center" style="width:160px">
 	<ul id="social">
