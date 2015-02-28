@@ -27,7 +27,7 @@
 			<li class="sklist">Object Oriented:<b> Java/J2EE, Pivotal Labs Spring MVC, C#, C++, Python, XAML </b></li>
 			<li class="sklist">Web Related: <b>Full LAMP stack, MEAN stack, CSS 3.0, HTML 5.0, JavaScript, CoffeeScript, Node.JS  UI/UX design, Bootstrap</b></li>
 			<li class="sklist">Database: <b>MySQL, Microsoft SQL Server, SQLite, CouchDB, MongoDB</b></li>
-			<li class="sklist">Test and QA Experiences:<b> Selenium, JUnit</b></li>
+			<li class="sklist">Test and QA Experiences:<b> JUnit</b></li>
 			<li class="sklist">Additional Experiences: <b>Android Development, Haskell, OpenGL,/ES OpenGL, LaTeX, Windows Store Apps, fluent in the art of Git and SVN</b></li>
 		</ul>
 	</div>

@@ -3,6 +3,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="theme-color" content = "#00000">
+		<meta name="description" content="Tai Rui Tong's Portfolio Site!" />
 		<title><?php echo $title ?> - The Perfect Square</title>
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="./css/normalize.css"/>
